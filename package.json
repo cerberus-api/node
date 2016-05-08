@@ -1,0 +1,23 @@
+{
+	"name": "cerberus-api",
+	"description": "Node module for interacting with the Cerberus API",
+	"version": "0.0.0",
+	"author": "makesites",
+	"contributors": [
+		{ "name": "Makis Tracend", "email": "makis@makesit.es" }
+	],
+	"homepage": "http://cerberus.makesit.es",
+	"keywords": ["cerberus", "makesites", "api"],
+	"repository": {
+	"type": "git",
+		"url": "git://github.com/cerberus-api/node.git"
+	},
+	"engines": { "node": ">=0.12.x" },
+	"main": "index",
+	"bin": { },
+	"dependencies": {
+		"async": "1.5.2",
+		"request": "2.54.0",
+		"underscore": "1.8.3"
+	}
+}
