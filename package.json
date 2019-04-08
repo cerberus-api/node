@@ -1,7 +1,7 @@
 {
 	"name": "cerberus-api",
 	"description": "Node module for interacting with the Cerberus API",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": "makesites",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@makesit.es" }
